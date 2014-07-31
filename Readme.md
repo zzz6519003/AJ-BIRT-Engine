@@ -1,4 +1,4 @@
 AJ-BIRT-Engine
 ===========
 
-＃report proccess and produce
+＃report process and produce
